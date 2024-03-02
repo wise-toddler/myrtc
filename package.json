@@ -1,0 +1,22 @@
+{
+  "name": "myrtc",
+  "version": "1.0.0",
+  "description": "rtc testing ",
+  "main": "index.js",
+  "scripts": {
+    "test": "testt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wise-toddler/myrtc.git"
+  },
+  "author": "ss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wise-toddler/myrtc/issues"
+  },
+  "homepage": "https://github.com/wise-toddler/myrtc#readme",
+  "dependencies": {
+    "mediasoup": "^3.13.23"
+  }
+}
